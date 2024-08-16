@@ -5,8 +5,8 @@ Two-player mode
 Simple and intuitive user interface
 Play against another person on the same device
 Highlights the winning combination
+<img src="https://github.com/user-attachments/assets/ed578540-f23e-44dc-8217-981e16ae1e44" width="200" height="400" />
 
-![tictoc home](https://github.com/user-attachments/assets/9b3b8a2d-c3c1-417a-9b95-55ac9f9f93cd)
 
 
 
